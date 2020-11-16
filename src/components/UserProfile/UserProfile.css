@@ -1,0 +1,19 @@
+.user-profile{
+    padding: 10px;
+    border: 2px solid lightgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.user-profile button{
+    padding: 2px 10px;
+    background: tomato;
+    color: rgb(26, 23, 23);
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}

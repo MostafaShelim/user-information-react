@@ -1,0 +1,7 @@
+.user{
+    width: 100%;
+    display: flex;
+}
+.user ul{
+    width: 70%;
+}
